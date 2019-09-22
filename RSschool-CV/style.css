@@ -1,0 +1,40 @@
+
+body{
+    background-color: rgb(31, 29, 155);
+    
+}
+div{
+   height: 900px;
+   width: 750px;
+   padding-left: 300px;
+  
+} 
+
+img{
+padding-top: 15px; 
+vertical-align: middle;
+}
+table {
+    border-collapse: collapse;
+    border: 7px solid gold;
+    border-radius: 30px;
+    background-color:  rgba(68, 112, 196, 0.7);
+    color:white;
+}
+
+.Personal{
+    border: 1px solid gray;
+    border-top: 50px;
+}
+
+.name{
+text-align: center; 
+height: 150px;
+
+}
+.full_name {
+text-align: center;
+border-top: none;
+font-size: 250%;
+
+}
